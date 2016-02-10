@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Reservation()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ reservation\r\n
+comment1.params=nomArticle\ articleReserve\ id
+comment1.target=int\ AjouterArticleReserve(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ ajoute\ un\ article\ reserve\ a\ une\ personne\r\n\r\n\ @param\ String\ nomArticle\r\n\ @param\ String\ articleReserve[]\r\n\ @param\ int\ id\r\n\ @return\ tableau\ avec\ les\ articles\ \ \ \r\n
+comment2.params=nomArticle\ articleReserve\ id
+comment2.target=int\ EnleverArticleReserve(java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ retire\ un\ article\ reserve\r\n\r\n\ @param\ String\ articleReserve[]\r\n\ @param\ int\ id\r\n\ @param\ String\ nomArticle\ \ \r\n\ @return\ String\ articleReserve[]\r\n
+comment3.params=nomArticle\ tabArticlePosseder\ id
+comment3.target=int\ AjouterArticlePosseder(java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ Ajoute\ un\ objet\ en\ la\ possesion\ de\ l'utillisateur\r\n\r\n\ @param\ String\ tabArticlePosseder[]\r\n\ @param\ int\ id\r\n\ @param\ String\ nomArticle\ \ \r\n\ @return\ String\ tabArticlePosseder[]\r\n
+comment4.params=nomArticle\ tabArticlePosseder\ id
+comment4.target=int\ SuprimmerArticlePosseder(java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Supprimer\ un\ objet\ en\ la\ possesion\ de\ l'utillisateur\r\n\r\n\ @param\ String\ tabArticlePosseder[]\r\n\ @param\ int\ id\r\n\ @param\ String\ nomArticle\ \ \r\n\ @return\ String\ tabArticlePosseder[]\r\n
+comment5.params=tabArticlePosseder
+comment5.target=void\ afficherArticle(java.lang.String[])
+comment5.text=\r\n\ affiche\ la\ liste\ des\ article\ en\ sa\ possesion\r\n\r\n\ @param\ String\ tabArticlePosseder[]\r\n
+comment6.params=retard
+comment6.target=Retard\ getRetard(Retard)
+comment6.text=\r\n\ Getter\ pour\ les\ retards.\r\n\ \r\n\ @param\ \ retard\r\n
+comment7.params=retard
+comment7.target=void\ setRetard(Retard)
+comment7.text=\r\n\ Setter\ pour\ les\ retards.\r\n\ \r\n\ @param\ \ retard\r\n
+numComments=8

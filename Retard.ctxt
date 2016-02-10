@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Retard()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ reservation\r\n
+comment1.params=nombreJourReserve\ nombreJourGarder
+comment1.target=int\ retard(int,\ int)
+comment1.text=\r\n\ retard\ des\ films\ reserves\r\n\ \r\n\ @param\ int\ nombreJourReserve\ \r\n\ @param\ int\ nombreJourGarder\r\n\ @return\ int\ nombreJourRetard\ \ \ \r\n
+comment2.params=nombreJourReserve\ nombreJourGarder\ messageRetard
+comment2.target=void\ retard(int,\ int,\ java.lang.String)
+comment2.text=\r\n\ Averti\ l'utillisateur\ d'un\ retard\r\n\ \r\n\ @param\ int\ nombreJourReserve\ \r\n\ @param\ int\ nombreJourGarder\r\n\ \r\n
+comment3.params=amende
+comment3.target=Amende\ getAmende(Amende)
+comment3.text=\r\n\ Getter\ pour\ les\ amendes.\r\n\ \r\n\ @param\ \ amende\r\n
+comment4.params=amende
+comment4.target=void\ setAmende(Amende)
+comment4.text=\r\n\ Setter\ pour\ les\ amendes.\r\n\ \r\n\ @param\ \ amende\r\n
+numComments=5

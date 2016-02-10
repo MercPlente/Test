@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Id()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Id\r\n
+comment1.params=base_donnee
+comment1.target=Base_donnee\ getBD(Base_donnee)
+comment1.text=\r\n\ Getter\ pour\ la\ BD\r\n\ \r\n\ @param\ \ base_donnee.\r\n
+comment2.params=base_donnee
+comment2.target=void\ setBD(Base_donnee)
+comment2.text=\r\n\ Setter\ pour\ la\ BD.\r\n\ \r\n\ @param\ \ Base\ de\ donnee.\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CategorieA()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CategorieA\r\n
+comment1.params=listeCategorie
+comment1.target=void\ AfficheCategorie(int[])
+comment1.text=\r\naffiche\ les\ categories\r\n\ \r\n\ @param\ \ \ int\ listeCategorie[]\ \:\ liste\ avec\ les\ cat\u00E9gories\ \ \ \ \r\n
+comment2.params=listeInfoCategorie\ listeCategorie
+comment2.target=void\ AfficheInfoCategorie(int[],\ int[])
+comment2.text=\r\naffiche\ les\ info\ des\ categories\ (\ \u00E0\ l'aide\ de\ l'id\ de\ la\ categorie)\r\n\ @param\ \ int\ listeCategorie[]\r\n\ @param\ \ int\ listeInfoCategorie[]\r\n
+comment3.params=listeInfoCategorie\ listeArticle
+comment3.target=void\ AfficheInfoParticulier(int[],\ int[])
+comment3.text=\r\naffiche\ les\ info\ des\ particulieres\ de\ certain\ article\ (\ \u00E0\ l'aide\ de\ l'id\ de\ la\ categorie)\r\n\ \r\n\ @param\ \ int\ listeInfoCategorie[]\r\n\ @\r\n
+numComments=4

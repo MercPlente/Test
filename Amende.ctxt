@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=nombreFilm\ nombreJoursRetard
+comment0.target=int\ amende(int,\ int)
+comment0.text=\r\n\ calcule\ l'amende\ selon\ le\ nombre\ de\ film\ et\ retard\r\n\ \r\n\ @param\ \ int\ nombreFilm\r\n\ @param\ \ int\ nombreJoursRetard\r\n\ @return\ cout\ (la\ valeur\ de\ l'amende)\r\n
+numComments=1
